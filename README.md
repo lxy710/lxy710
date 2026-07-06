@@ -1,95 +1,75 @@
+<div align="center">
+
+# 👋 Hi, I'm lxy710
+### 计算机专业 大二学生
+
+</div>
 
 <div align="center">
 
-# 👋 Hi, I'm lxy
 
-< img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=CS+Student+at+SDU;C%2B%2B+%7C+Python+%7C+AI+Explorer;System+Builder;Algorithm+Learner" />
+![Major](https://img.shields.io/badge/MAJOR-COMPUTER%20SCIENCE%20%26%20TECHNOLOGY-ec4899?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-SOPHOMORE-6c757d?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🎒 About Me
 
-- 🎓 School: Shandong University (SDU)
-- 🎒 Status: Freshman
-- 💻 Focus: C++ / Python / System / AI
-- 🚀 Goal: Strong software engineer
-- 🧠 Mindset: Learn → Build → Improve
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-< img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,kotlin,linux,git,github,vscode,opencv" />
-</p >
+- 🏫 **计算机科学与技术专业**：大二在读
+- 💻 **技术方向**：后端 · 算法 · AI
+- 🧠 **大一技术栈**：Linux → C → C++ → 面向对象编程 → SQL
+- 🖥️ **开发环境**：Windows
+- 🎮 **常用设备**：拯救者Y7000P
+- ✨ **兴趣方向**：后端、算法、AI
 
 ---
 
-## 🚀 Projects
+## 🛠️ Technical Stack
 
-### ✈️ Flight Management System
-- C++ OOP system project
-- File-based data management
-- Focus: data structure + design
+<div align="center">
 
-🔗 https://github.com/lxy710/flight-management-system
+| 分类 | 技能/工具 |
+|------|-----------|
+| **编程语言** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **数据库** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **开发环境** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
----
 
-### ⏰ Digital Clock System
-- Clock simulation project
-- Time logic implementation
-- C++ basic system design
-
-🔗 https://github.com/lxy710/digital-clock
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Stats
 
-<p align="center">
-< img src="https://github-readme-stats.vercel.app/api?username=lxy710&show_icons=true&theme=tokyonight" />
-</p >
+<div align="center">
 
-<p align="center">
-< img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxy710&layout=compact&theme=tokyonight" />
-</p >
 
----
 
-## 📈 Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=lxy710&theme=radical&hide_border=true)
 
-<p align="center">
-< img src="https://streak-stats.demolab.com?user=lxy710&theme=tokyonight" />
-</p >
+</div>
 
-<p align="center">
-< img src="https://github-readme-activity-graph.vercel.app/graph?username=lxy710&theme=react-dark" />
-</p >
+
 
 ---
 
-## 🎯 Currently Learning
 
-- C++ STL & Modern C++
-- Data Structures & Algorithms
-- Linux System Programming
-- OpenCV Computer Vision
-- Full Stack Development
+## 📮 Contact Me
 
----
+<div align="center">
 
-## 🌐 Contact
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lxy710)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevnsam@gmail.com)
+![WeChat](https://img.shields.io/badge/WeChat-LXY20070710-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
-- WeChat: -LXY20070710  
-- GitHub: https://github.com/lxy710  
+</div>
 
 ---
 
 <div align="center">
 
-> 🚀 Code. Build. Improve.
+⭐ 感谢访问我的主页，欢迎交流学习 & Star 我的项目！
 
 </div>
